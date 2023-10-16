@@ -1,0 +1,40 @@
+body {
+  background-color: #808080;
+}
+
+* {
+  margin: 0;
+}
+main {
+  width: 450px;
+  height: 300px;
+  border: solid aquamarine;
+}
+
+#container {
+  width: 200px;
+  height: 250px;
+  border: solid black;
+}
+
+.box1 {
+  width: 100px;
+  height: 17px;
+  background-color: #483d8b;
+}
+.box2 {
+  width: 100px;
+  height: 17px;
+  background-color: #ffdab9;
+}
+.box3 {
+  width: 100px;
+  height: 17;
+  background-color: #d8bfd8;
+}
+p {
+  color: #955be0;
+}
+h2 {
+  font-size: 35px;
+}
